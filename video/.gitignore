@@ -1,0 +1,7 @@
+# الفيديوهات الناتجة ثقيلة — تُبنى محليًا ولا تُرفع إلى Git
+render/*.mp4
+render/work/
+
+# Python
+__pycache__/
+*.pyc

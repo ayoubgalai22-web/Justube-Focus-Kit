@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,Tajawal,132,&H00A0E500,&H00A0E500,&H00120B00,&H00000000,0,0,0,0,100,100,0,0,1,7,5,7,60,60,60,1
+Style: Sub,Tajawal,54,&H00FFFFFF,&H00FFFFFF,&H00120B00,&H00000000,0,0,0,0,100,100,0,0,1,4,2,7,70,70,206,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.00,Hook,,0,0,0,,5% فقط
+Dialogue: 0,0:00:00.00,0:00:09.00,Sub,,0,0,0,,لماذا يعود الكاش؟
