@@ -1,6 +1,7 @@
 # الفيديو النهائي — سر اختفاء العملات الورقية في المستقبل
 
-**الملف:** [`video/render/cashless-future.mp4`](../render/cashless-future.mp4)
+**الملف:** `video/render/cashless-future.mp4`
+**معاينة/تحميل عبر المتصفح:** شغّل `python3 video/build/serve.py 8099` ثم افتح `http://localhost:8099` (يدعم التقديم والتأخير والتحميل المباشر).
 **المصغّرة:** [`video/assets/thumbnail_1280x720.jpg`](../assets/thumbnail_1280x720.jpg)
 **المدة:** 7:23 | **الدقة:** 1920×1080 (30fps) | **الصوت:** AAC ستيريو، −13.8 LUFS | **الحجم:** ~62 MB
 **التعليق الصوتي:** صوت خليجي فصيح واضح • **الترجمة/العناوين:** مدمجة (burned-in) بخط Tajawal
